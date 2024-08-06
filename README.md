@@ -1,6 +1,6 @@
 ## Hi there, I'm Karabutova Lina 👋
 
-I'm a frontend developer, cartographer, PhD in Geography from Minsk, Belarus.
+I'm a frontend developer. Have a magister's degree in Applied Mathematics and Informatics. 
 
 💻 My main stack
 
