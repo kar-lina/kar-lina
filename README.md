@@ -12,6 +12,7 @@
 - Nuxt.js
 - BEM
 - Webpack
+- Tailwind.css
 
 ⚒️ Другие навыки
 
