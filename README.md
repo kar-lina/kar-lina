@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, I'm Karabutova Lina 👋
 
-<!--
-**kar-lina/kar-lina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer, cartographer, PhD in Geography from Minsk, Belarus.
 
-Here are some ideas to get you started:
+💻 My main stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+image image image
+
+🔧 Other stack and tools
+
+Stack and tools:  image image image image
+
+IDE: image image
+
+Graphics: image image image
+
+💿 My projects
+
+📖 Sites
+
+📄 Pages / Applications
+
+📞 Contacts
+
+gmail akarabutova59@gmail.com
+telegram @karabutov_lina
