@@ -1,26 +1,31 @@
-## Hi there, I'm Karabutova Lina 👋
 
-I'm a frontend developer. Have a magister's degree in Applied Mathematics and Informatics. 
+# Привет 👋 Меня зовут Ангелина. 
+## Закончила магистратуру по специальности прикладная математика и информатика. Люблю пилить сложные фронты, разбираться в бекенде и котиков 🐈‍⬛
 
-💻 My main stack
+---
 
-image image image
+💻 Основной стек 
 
-🔧 Other stack and tools
+- JavaScript / TypeScript
+- HTML
+- CSS/SCSS/SASS
+- Vue.js (2/3)
+- Nuxt.js
+- BEM
+- Webpack
 
-Stack and tools:  image image image image
+⚒️ Другие навыки
 
-IDE: image image
-
-Graphics: image image image
-
-💿 My projects
-
-📖 Sites
-
-📄 Pages / Applications
+- Nest.js
+- PostgeSQL
+- Jquery
+- React.js
+- Figma
+- Agile
+- Jira
+- English (intermediate)
 
 📞 Contacts
 
-gmail akarabutova59@gmail.com
-telegram @karabutov_lina
+- gmail akarabutova59@gmail.com
+- telegram @karabutov_lina
