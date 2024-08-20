@@ -29,3 +29,6 @@
 
 - gmail akarabutova59@gmail.com
 - telegram @karabutov_lina
+
+  💼 Портфолио
+  https://kar-lina.github.io/portfolio-build/
