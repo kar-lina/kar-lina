@@ -1,6 +1,5 @@
 
-# Привет 👋 Меня зовут Ангелина. 
-## Закончила магистратуру по специальности прикладная математика и информатика. Люблю пилить сложные фронты, разбираться в бекенде и котиков 🐈‍⬛
+# Привет 👋 Меня зовут Ангелина 🐈‍⬛.
 
 
 💻 Основной стек 
@@ -18,17 +17,10 @@
 
 - Nest.js
 - PostgeSQL
-- Jquery
 - React.js
 - Figma
 - Agile
 - Jira
-- English (intermediate)
-
-📞 Contacts
-
-- gmail akarabutova59@gmail.com
-- telegram @karabutov_lina
 
   💼 Портфолио
   https://kar-lina.github.io/portfolio-build/
